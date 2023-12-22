@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-{% for post in site.posts reversed %}
+{% for post in site.publications reversed %}
+  {%if post.published==true%}
   {% include archive-single.html %}
 {% endfor %}
 
-
-
-{% for post in site.posts reversed %}
 Preprints
-====
+===
+{% for post in site.publications reversed %}
+  {%if post.published!=true%}
   {% include archive-single.html %}
 {% endfor %}

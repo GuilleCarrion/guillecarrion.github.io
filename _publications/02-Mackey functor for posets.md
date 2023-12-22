@@ -3,6 +3,7 @@ title: "Mackey functor for posets"
 collection: posts
 permalink: posts/Mackey_functor_for_posets
 excerpt: ''
+published: false
 author: me, Jérôme Scherer
 date: 2023-12-22
 paperurl: 'https://arxiv.org/abs/2312.13989'
