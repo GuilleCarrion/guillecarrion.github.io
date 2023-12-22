@@ -1,6 +1,6 @@
 ---
 title: "Mackey functor for posets"
-collection: posts
+collection: publications
 permalink: posts/Mackey_functor_for_posets
 excerpt: ''
 author: me, Jérôme Scherer
