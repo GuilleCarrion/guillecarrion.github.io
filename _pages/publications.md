@@ -10,10 +10,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-Preprints
-====
-
-{% for post in site.posts reversed %}
-  {% include archive-single-posts.html %}
-{% endfor %}
