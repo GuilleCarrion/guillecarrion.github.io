@@ -3,7 +3,7 @@ title: "Relative plus construction"
 collection: publications
 permalink: /publication/relative_plus_construction
 excerpt: ''
-date: 2023-06
+date: 2023-06-01
 venue: 'Expositiones mathematicae'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0723086923000348'
 #citation: ''
