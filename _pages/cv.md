@@ -31,13 +31,17 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {%if post.venue %}
+      {% include archive-single-cv.html %}
+    {%endif%}
   {% endfor %}</ul>
 
 Preprints
 ======
-  <ul>{% for post in site.posts %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.publications %}
+  {%if post.unpublished %}
+      {% include archive-single-cv.html %}
+  {%endif%}
   {% endfor %}</ul>
   
 Talks
