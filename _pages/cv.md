@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find a pdf version of my CV [here](http://guillecarrion.github.io/files/CV.pdf)
+You can find a pdf version of my CV [here](http://guillecarrion.github.io/files/CV.pdf). 23-dec-23
