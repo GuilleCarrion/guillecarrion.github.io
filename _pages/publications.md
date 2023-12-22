@@ -13,3 +13,7 @@ author_profile: true
 
 Preprints
 ====
+
+{% for post in site.posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
