@@ -16,7 +16,7 @@ Preprints
 ===
 {% for post in site.publications reversed %}
   a
-  {%if post.published== false%}
+  {%if post.published==true%}
   a
     {% include archive-single.html %}
   {% endif %}
