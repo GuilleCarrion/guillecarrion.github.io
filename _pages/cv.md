@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bsc in Mathematics, Universidad de Málaga, 2015
+* Master in Mathematics, Universidad de Málaga, 2016
+* Ph.D in Mathematics, Universitat Autònoma de Barcelona, 2023
 
 Work experience
 ======
@@ -27,14 +27,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
