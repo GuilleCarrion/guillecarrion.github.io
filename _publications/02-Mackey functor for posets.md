@@ -3,9 +3,9 @@ title: "Mackey functor for posets"
 collection: publications
 permalink: /publications/Mackey_functor_for_posets
 excerpt: ''
-published: true
-author: me, Jérôme Scherer
+author: Antonio Díaz Ramos
 date: 2023-12-22
+published: false
 paperurl: 'https://arxiv.org/abs/2312.13989'
 #citation: ''
 ---

@@ -15,7 +15,9 @@ author_profile: true
 Preprints
 ===
 {% for post in site.publications reversed %}
-  {%if post.published!=true%}
+  a
+  {%if post.published== false%}
+  a
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
