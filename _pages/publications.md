@@ -11,10 +11,9 @@ author_profile: true
 {% endfor %}
 
 
-Preprints
-====
 
 {% for post in site.posts reversed %}
-as
+Preprints
+====
   {% include archive-single.html %}
 {% endfor %}
