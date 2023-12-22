@@ -8,12 +8,14 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {%if post.published==true%}
-  {% include archive-single.html %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 Preprints
 ===
 {% for post in site.publications reversed %}
   {%if post.published!=true%}
-  {% include archive-single.html %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
