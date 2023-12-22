@@ -2,7 +2,7 @@
 title: "Relative plus construction"
 collection: publications
 permalink: /publication/relative_plus_construction
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2023-06
 venue: 'Expositiones mathematicae'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0723086923000348'
