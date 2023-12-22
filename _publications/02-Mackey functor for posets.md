@@ -10,8 +10,8 @@ paperurl: 'https://arxiv.org/abs/2312.13989'
 #citation: ''
 ---
 
-This paper is about the number 1. The number 2 is left for future work.
+We characterize cofibrant objects in the category of functors indexed in a filtered poset and we show that these objects are acyclic. As a consequence, we show that Mackey functors over posets are also acyclic, where we define this type of Mackey functors mimicking the classical notion. As application, we study homotopy colimits over posets and we give a homology decomposition for the classifying space of the Bianchi group.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).---
+[Download paper here](https://arxiv.org/abs/2312.13989)
+
