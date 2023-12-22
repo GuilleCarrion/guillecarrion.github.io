@@ -1,16 +1,20 @@
 ---
-title: "Mackey functor for posets"
-collection: posts
-permalink: post/Mackey_functor_for_posets
-excerpt: ''
-author: me, Jérôme Scherer
-date: 2023-12-22
-paperurl: 'https://arxiv.org/abs/2312.13989'
-#citation: ''
+title: 'Blog Post number 2'
+date: 2013-08-14
+permalink: /posts/2013/08/blog-post-2/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
-This paper is about the number 1. The number 2 is left for future work.
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Headings are cool
+======
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+You can have many headings
+======
+
+Aren't headings cool?
+------
