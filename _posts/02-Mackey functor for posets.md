@@ -1,6 +1,6 @@
 ---
 title: "Mackey functor for posets"
-collection: post
+collection: posts
 permalink: /Mackey_functor_for_posets
 excerpt: ''
 date: 2023-12-22
