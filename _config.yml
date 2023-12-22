@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Guille Carrion"
   avatar           : "IMG_7821.png"
-  bio              : "Postdoc"
-  location         : "Malaga"
+  bio              : 
+  location         : 
   employer         : "Universidad de Málaga"
   pubmed           :
   googlescholar    : 
