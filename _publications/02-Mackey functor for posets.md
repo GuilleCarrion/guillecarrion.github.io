@@ -5,7 +5,7 @@ permalink: /publications/Mackey_functor_for_posets
 excerpt: ''
 author: Antonio Díaz Ramos
 date: 2023-12-22
-published: false
+unpublished: true
 paperurl: 'https://arxiv.org/abs/2312.13989'
 #citation: ''
 ---

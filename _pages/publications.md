@@ -7,7 +7,7 @@ author_profile: true
 
 
 {% for post in site.publications reversed %}
-  {%if post.published==true%}
+  {%if post.venue %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -16,7 +16,7 @@ Preprints
 ===
 {% for post in site.publications reversed %}
   a
-  {%if post.published==true%}
+  {%if post.unpublished %}
   a
     {% include archive-single.html %}
   {% endif %}
