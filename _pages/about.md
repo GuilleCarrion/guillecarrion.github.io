@@ -16,6 +16,7 @@ I am currently working as Postdoc at Departamento de Álgebra, Geometría y Topo
 My research interest are:
 - Higher limits, 
 - Homotopical and Homological algebra,
-- Combinatorial properties of posets, and
-- Classifying spaces
+- Combinatorial properties of posets, 
+- Bousfield localisation, and
+- related topics in Algebraic topology
 
