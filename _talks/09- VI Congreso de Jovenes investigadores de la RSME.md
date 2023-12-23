@@ -1,10 +1,10 @@
 ---
-title: "Límites superiores via Álgebra homotopica"
+title: "Cohomología de haces para CL-shellable posets"
 collection: talks
 type: "Talk"
-permalink: /talks/talk-06
-venue: "Métodos Categóricos y Homotópicos en Álgebra, Geomtría, Topología y Análisis funcional, Universidad de Extremadura"
-date: 2022-06-16
-location: "Badajoz"
+permalink: /talks/talk-09
+venue: "VI Congreso de Jóvenes Investigadores de la RSME"
+date: 2023-02-09
+location: "León"
 ---
 
