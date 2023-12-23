@@ -18,5 +18,5 @@ My research interest are:
 - Homotopical and Homological algebra,
 - Combinatorial properties of posets, 
 - Bousfield localisation, and
-- related topics in Algebraic topology
+- related topics in Algebraic topology and Category theory
 
