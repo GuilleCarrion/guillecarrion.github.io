@@ -6,7 +6,7 @@ excerpt: ''
 author: 
 date: 2023-06-29
 unpublished: true
-paperurl: ''
+paperurl: 'http://guillecarrion.github.io/files/Tesis_Guille_Carrion.pdf'
 #citation: ''
 ---
 
