@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "Home"
+seo_title: Guille Carrion's web page
+excerpt: "PhD in mathematics. My research interest are about homotopy theory in a general meaning. More concrete, Higher limits, model category theory and combinatorial properties of posets."
 author_profile: true
 redirect_from: 
   - /about/
