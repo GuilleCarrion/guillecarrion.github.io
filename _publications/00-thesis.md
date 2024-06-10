@@ -1,5 +1,5 @@
 ---
-title: "Higher limits via homotopical algebra"
+title: "[Thesis] Higher limits via homotopical algebra"
 collection: publications
 permalink: /publications/tesis
 excerpt: ''
