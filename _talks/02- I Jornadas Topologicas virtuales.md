@@ -1,5 +1,5 @@
 ---
-title: "Sisè seminari de Teoria de Categories"
+title: "Approaching higher limits from homotopy theory"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-02
