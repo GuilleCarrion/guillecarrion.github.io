@@ -13,7 +13,7 @@ redirect_from:
 About me
 ===
 
-I am currently working as Postdoc at Departamento de Álgebra, Geometría y Topología of Universidad de Málaga. I obtained my PhD Degree from Universitat Autònoma de Barcelona under the supervision of Natàlia Castellana Vila and Antonio Díaz Ramos. 
+ I am currently working as assistant professor at Universidad Rey Juan Carlos (Department of applied mathematics). I obtained my PhD Degree from Universitat Autònoma de Barcelona under the supervision of Natàlia Castellana Vila and Antonio Díaz Ramos. After my Ph.D. I was working as postdoc at Departamento de Álgebra, Geometría y Topología of Universidad de Málaga.
 
 My research interest are:
 - Higher limits, 
