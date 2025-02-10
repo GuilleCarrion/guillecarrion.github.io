@@ -4,14 +4,14 @@ collection: publications
 permalink: /publications/Mackey_functor_for_posets
 excerpt: ''
 author: Antonio Díaz Ramos
-date: 2023-12-22
-unpublished: true
-paperurl: 'https://arxiv.org/abs/2312.13989'
-#citation: ''
+date: 2025-01-03
+published: true
+venue: 'Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales. Serie A. Matemáticas'
+paperurl: 'https://link.springer.com/article/10.1007/s13398-025-01704-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250204&utm_content=10.1007%2Fs13398-025-01704-5#citeas'
 ---
 
-We characterize cofibrant objects in the category of functors indexed in a filtered poset and we show that these objects are acyclic. As a consequence, we show that Mackey functors over posets are also acyclic, where we define this type of Mackey functors mimicking the classical notion. As application, we study homotopy colimits over posets and we give a homology decomposition for the classifying space of the Bianchi group.
+We define Mackey functors over posets mimicking the classical notion and introduce a weak version of them. Then we show that they are acyclic by analyzing cofibrant and pseudo-projective objects in the category of functors indexed in a filtered poset. As application, we study homotopy colimits over posets and we give a homology decomposition for the classifying space of the Bianchi group Gamma 1.
 
 
-[Download paper here](https://arxiv.org/abs/2312.13989)
+[Download paper here](https://link.springer.com/article/10.1007/s13398-025-01704-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250204&utm_content=10.1007%2Fs13398-025-01704-5#citeas)
 
