@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CL-shellable-poset
 excerpt: ''
 author: Natàlia Castellana and Alberto Gavira-Romero
-date: 2025-10-29
+date: 2026-03-02
 unpublished: true
 paperurl: 'https://arxiv.org/abs/1603.05050'
 #citation: ''
