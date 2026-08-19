@@ -1,7 +1,7 @@
 ---
 title: "[submited] Cellular approximations of fusion systems."
 collection: publications
-permalink: /publications/CL-shellable-poset
+permalink: /publications/Cellular-aprx
 excerpt: ''
 author: Natàlia Castellana and Alberto Gavira-Romero
 date: 2026-03-02
