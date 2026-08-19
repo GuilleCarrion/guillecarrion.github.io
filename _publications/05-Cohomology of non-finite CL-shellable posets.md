@@ -5,7 +5,8 @@ permalink: /publications/CL-shellable-poset
 excerpt: ''
 author: Antonio Díaz Ramos
 date: 2025-10-29
-unpublished: true
+published: true
+venue: 'Acepted in TAMS'
 paperurl: 'https://arxiv.org/abs/2509.17574'
 #citation: ''
 ---
